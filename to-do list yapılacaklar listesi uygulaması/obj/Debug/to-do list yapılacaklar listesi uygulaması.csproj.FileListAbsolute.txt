@@ -1,0 +1,10 @@
+C:\Users\mastarichy\Desktop\yazılımlar\to-do list yapılacaklar listesi uygulaması\to-do list yapılacaklar listesi uygulaması\bin\Debug\to-do list yapılacaklar listesi uygulaması.exe.config
+C:\Users\mastarichy\Desktop\yazılımlar\to-do list yapılacaklar listesi uygulaması\to-do list yapılacaklar listesi uygulaması\bin\Debug\to-do list yapılacaklar listesi uygulaması.exe
+C:\Users\mastarichy\Desktop\yazılımlar\to-do list yapılacaklar listesi uygulaması\to-do list yapılacaklar listesi uygulaması\bin\Debug\to-do list yapılacaklar listesi uygulaması.pdb
+C:\Users\mastarichy\Desktop\yazılımlar\to-do list yapılacaklar listesi uygulaması\to-do list yapılacaklar listesi uygulaması\obj\Debug\to-do list yapılacaklar listesi uygulaması.csproj.AssemblyReference.cache
+C:\Users\mastarichy\Desktop\yazılımlar\to-do list yapılacaklar listesi uygulaması\to-do list yapılacaklar listesi uygulaması\obj\Debug\to_do_list_yapılacaklar_listesi_uygulaması.Form1.resources
+C:\Users\mastarichy\Desktop\yazılımlar\to-do list yapılacaklar listesi uygulaması\to-do list yapılacaklar listesi uygulaması\obj\Debug\to_do_list_yapılacaklar_listesi_uygulaması.Properties.Resources.resources
+C:\Users\mastarichy\Desktop\yazılımlar\to-do list yapılacaklar listesi uygulaması\to-do list yapılacaklar listesi uygulaması\obj\Debug\to-do list yapılacaklar listesi uygulaması.csproj.GenerateResource.cache
+C:\Users\mastarichy\Desktop\yazılımlar\to-do list yapılacaklar listesi uygulaması\to-do list yapılacaklar listesi uygulaması\obj\Debug\to-do list yapılacaklar listesi uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\mastarichy\Desktop\yazılımlar\to-do list yapılacaklar listesi uygulaması\to-do list yapılacaklar listesi uygulaması\obj\Debug\to-do list yapılacaklar listesi uygulaması.exe
+C:\Users\mastarichy\Desktop\yazılımlar\to-do list yapılacaklar listesi uygulaması\to-do list yapılacaklar listesi uygulaması\obj\Debug\to-do list yapılacaklar listesi uygulaması.pdb
